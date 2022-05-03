@@ -1,0 +1,69 @@
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\Control usuarios desactivados.exe
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\obj\Debug\netcoreapp3.1\Control usuarios desactivados.csprojAssemblyReference.cache
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\obj\Debug\netcoreapp3.1\Control usuarios desactivados.AssemblyInfoInputs.cache
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\obj\Debug\netcoreapp3.1\Control usuarios desactivados.AssemblyInfo.cs
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\obj\Debug\netcoreapp3.1\Control usuarios desactivados.csproj.CopyComplete
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\Control usuarios desactivados.deps.json
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\Control usuarios desactivados.runtimeconfig.json
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\Control usuarios desactivados.runtimeconfig.dev.json
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\Control usuarios desactivados.dll
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\Control usuarios desactivados.pdb
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\SpreadsheetLight.dll
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\obj\Debug\netcoreapp3.1\Control usuarios desactivados.dll
+C:\Users\ML14-USUARIO\Documents\dh\Control usuarios desactivados\Control usuarios desactivados\obj\Debug\netcoreapp3.1\Control usuarios desactivados.pdb
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\Control usuarios desactivados.exe
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\Control usuarios desactivados.deps.json
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\Control usuarios desactivados.runtimeconfig.json
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\Control usuarios desactivados.runtimeconfig.dev.json
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\Control usuarios desactivados.dll
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\Control usuarios desactivados.pdb
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\SpreadsheetLight.dll
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\obj\Debug\netcoreapp3.1\Control usuarios desactivados.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\obj\Debug\netcoreapp3.1\Control usuarios desactivados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\obj\Debug\netcoreapp3.1\Control usuarios desactivados.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\obj\Debug\netcoreapp3.1\Control usuarios desactivados.AssemblyInfo.cs
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\obj\Debug\netcoreapp3.1\Control usuarios desactivados.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\obj\Debug\netcoreapp3.1\Control usuarios desactivados.csproj.CopyComplete
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\obj\Debug\netcoreapp3.1\Control usuarios desactivados.dll
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\obj\Debug\netcoreapp3.1\Control usuarios desactivados.pdb
+C:\Users\david\OneDrive\Escritorio\.netPruebas\repositorio\control usuarios desactivados\Control usuarios desactivados\obj\Debug\netcoreapp3.1\Control usuarios desactivados.genruntimeconfig.cache

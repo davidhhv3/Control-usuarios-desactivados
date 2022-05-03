@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "wAB6Ms04N3efMDPQx+qjlijzTYg8TwmwtSh0c7VmDh3Fi/1jRt/KJ2ajmWdjT6cxlycnam6/LV84O1GyhJeWrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\OneDrive\\Escritorio\\.netPruebas\\repositorio\\control usuarios desactivados\\Control usuarios desactivados\\Control usuarios desactivados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\mongodb.bson\\2.12.4\\mongodb.bson.2.12.4.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\mongodb.driver\\2.12.4\\mongodb.driver.2.12.4.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\mongodb.driver.core\\2.12.4\\mongodb.driver.core.2.12.4.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\mongodb.libmongocrypt\\1.2.1\\mongodb.libmongocrypt.1.2.1.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\spreadsheetlight\\3.5.0\\spreadsheetlight.3.5.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
